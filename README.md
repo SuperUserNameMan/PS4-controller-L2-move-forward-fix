@@ -12,7 +12,7 @@ Some PS4 controllers move forward when L2 is pressed. Here is a fix.
 
 ## THE FIX :
 
-Just open a little the little green thing (about 1 mm)
+Just slightly open the little green thing (about 1 mm)
 
 ![image](https://github.com/user-attachments/assets/63bb86c1-f517-4ac3-aa3c-cf609d12a416)
 
