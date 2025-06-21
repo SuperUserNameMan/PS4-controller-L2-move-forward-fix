@@ -5,6 +5,11 @@ Some PS4 controllers move forward when L2 is pressed. Here is a fix.
 
 - `CUH-ZCT2E`
 
+## SYMPTOMS :
+
+- When L2 is pressed, left Y axis is detected too (move forward)
+- Left stick Y axis (forward backward) is unstable ;
+
 ## THE FIX :
 
 Just open a little the little green thing (about 1 mm)
