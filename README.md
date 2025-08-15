@@ -1,5 +1,5 @@
 **WARNING :** 
-- before trying this solution, try cleaning and reseting your controller as explained by other tutorials avaible all over the web.
+- before trying this solution, try cleaning and reseting your controller as explained by other tutorials available all over the web.
 - if this fix also works for you, it might only be a **temporary (and unstable) fix**, and you might still need to replace the defective potentiometer.
 
 ---
